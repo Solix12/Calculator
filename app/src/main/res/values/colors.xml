@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //gray
+    <color name="backra_gray">#4f5b66</color>
+    <color name="cardra_gray">#65737e</color>
+    <color name="text_gray">#343d46</color>
+
+    //ping
+    <color name="back_ping">#f6abb6</color>
+    <color name="card_ping">#f4b6c2</color>
+    <color name="text_ping">#ff77aa</color>
+
+
+    //blue
+    <color name="back_blue">#4a91f2</color>
+    <color name="card_blue">#64a1f4</color>
+    <color name="text_blue">#3b7dd8</color>
+
+    //yellow
+
+    <color name="back_green">#38b000</color>
+    <color name="card_green">#9ef01a</color>
+    <color name="text_green">#006400</color>
+
+    //purple
+
+    <color name="back_purple">#815ac0</color>
+    <color name="card_purple">#b185db</color>
+    <color name="text_purple">#6247aa</color>
+
+    //braun
+
+    <color name="back_braun">#6f4518</color>
+    <color name="card_braun">#bc8a5f</color>
+    <color name="text_braun">#603808</color>
+
+    //red
+
+    <color name="back_red">#85182a</color>
+    <color name="card_red">#c71f37</color>
+    <color name="text_red">#6e1423</color>
+
+
+</resources>

@@ -1,0 +1,9 @@
+pasword : solixoff12
+
+alias : solih
+
+fio : Muhammadsolih Abdugafforov
+
+unit : Isystem
+
+organization : Android
